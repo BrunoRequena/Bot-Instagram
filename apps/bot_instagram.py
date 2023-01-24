@@ -6,9 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 
-EMAIL = "savepastsave"
-PASSWORD = "Bruno.0"
-USERNAME = "outrabrisaderia"
+EMAIL = "user@email.com"
+PASSWORD = "coxinha123"
+USERNAME = "omelhorperfil"
 INSTAGRAM_URL = "https://www.instagram.com/"
 servico = Service(ChromeDriverManager().install())
 
